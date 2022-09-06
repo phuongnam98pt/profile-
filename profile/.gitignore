@@ -11,8 +11,6 @@
 # production
 /build
 
-/public/meta.json
-
 # misc
 .DS_Store
 .env.local
@@ -23,5 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-home-backdrop.mp4
